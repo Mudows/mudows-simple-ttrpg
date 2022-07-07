@@ -1,6 +1,6 @@
 > ---
 > 
-> [CHECK OUT THE LIVE VERSION!]()  
+> [CHECK OUT THE LIVE VERSION!](https://mudows-simple-ttrpg.vercel.app/character/chargen.html)  
 >
 > ---
 
